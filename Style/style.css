@@ -296,5 +296,61 @@ footer{
     display: grid;
     grid-template-columns: repeat(2,1fr);
 }
-@media (max-width: 425px) {
+@media (max-width: 765px) {
+
+    .nave{
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 575px){
+
+    header{
+        background-color: #7f4ca5;
+    }
+    
+    .logo{
+    align-items: center;    }
+
+    .nave-dad{
+        display: flex;
+        justify-content: space-evenly;
+        padding-left: 0px;  
+      }
+
+    .nave{
+        font-size: 15px;
+    }
+    .nave:hover{
+        font-size: 18px;
+    }
+    .titulo{
+        font-size: 20px;
+        margin-top: 50px;
+    }
+    
+    p, .pgal, .pgal2{
+        font-size: 10px;
+    
+    }
+    .text1{
+        font-size: 20px;
+    }
+
+    .text2{
+        font-size: 15px;
+    }
+    .caja, textarea, .enviar{
+        font-size: 10px;
+        width: 260px;
+    }
+    .redes{
+        width: 50px;
+    }
+    .redes:hover{
+        width: 60px;
+    }
+    .nave2, .red , .h6{
+        font-size: 12px;
+    }
 }
