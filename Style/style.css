@@ -82,14 +82,19 @@ header{
     background-color: #7f4ca5;
     border-radius: 15px;
     text-align: center;
-    height: 70px;
     padding: 15px;
     margin: 20px;
     grid-column: 2/2;
     grid-row: 1;
 }
 
+
 .pgal2{
+    background-color: #7f4ca5;
+    border-radius: 15px;
+    text-align: center;
+    padding: 15px;
+    margin: 20px;
     grid-column: 1/2;
     grid-row: 1;
 }
