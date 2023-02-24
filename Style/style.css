@@ -301,6 +301,14 @@ footer{
     .nave{
         font-size: 15px;
     }
+
+    .content-gal1 {
+        display: block;
+    }
+
+.content-gal2{
+    display: block;
+    }
 }
 
 @media (max-width: 575px){
@@ -352,5 +360,13 @@ footer{
     }
     .nave2, .red , .h6{
         font-size: 12px;
+    }
+    
+    .content-gal1 {
+        display: block;
+    }
+
+.content-gal2{
+    display: block;
     }
 }
