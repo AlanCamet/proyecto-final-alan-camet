@@ -302,6 +302,10 @@ footer{
         font-size: 15px;
     }
 
+    .nave:hover{
+        font-size: 18px;
+    }
+
     .content-gal1 {
         display: block;
     }
